@@ -1,4 +1,8 @@
+
 {
   "replace": false,
-  "values": [ "topazcraft:topaz_block" ]
+  "values": [
+    "topazcraft:topaz_block",
+    "topazcraft:glowing_crystal"
+  ]
 }
